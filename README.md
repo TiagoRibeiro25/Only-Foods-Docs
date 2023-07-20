@@ -54,12 +54,12 @@
 <!-- ARCHITECTURE -->
 ## Architecture
 
-![Architecture](architecture/architecture_diagram_light.png)
+![Architecture](architecture/architecture_diagram_dark.png)
 
 <!-- DATA MODEL -->
 ## Data Model
 
-![Data Model](data_model/data_model_light.png)
+![Data Model](data_model/data_model_dark.png)
 
 <!-- CONTACT -->
 ## Contact
