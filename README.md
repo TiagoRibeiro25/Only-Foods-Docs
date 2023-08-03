@@ -8,7 +8,7 @@
   <p align="center">
     All the documentation of the Only Foods Project can be found in this repository.
     <br />
-    <a href="https://onlyfoods.netlify.app/">View Demo</a>
+    <a href="https://onlyfoods.onrender.com">View Demo</a>
     ·
     <a href="https://github.com/TiagoRibeiro25/Only-Foods-FE">Frontend Repo</a>
     ·
