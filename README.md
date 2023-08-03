@@ -64,8 +64,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Contact section of my personal website:
-[tiagoribeiro.tech](https://tiagoribeiro.tech/)
+Contact through my [personal website](https://tiagoribeiro.tech/contact).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [postman-docs]: https://documenter.getpostman.com/view/25229849/2s946k5q27
